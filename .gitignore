@@ -259,3 +259,5 @@ Session.vim
 
 # vscode
 .vscode/
+
+ignore/
